@@ -1,0 +1,55 @@
+header h1  {
+    font-family: 'Share Tech Mono', monospace;
+    float: left;
+    text-align: center;
+    color:rgba(0, 217, 255, 0.904);
+}
+
+.Buscar{
+    margin-right: 15px;
+}
+body{
+   
+    background-color: black;
+    margin: 0 auto;
+    padding: 1px;
+    border-radius: 10px;
+    font-family: 'Share Tech Mono', monospace;
+    text-align: center;
+    font-size: 18px;
+}
+.Cadastrados{
+
+    padding: 5px;
+    color:rgba(0, 217, 255, 0.904);
+}
+
+.inputsTab{
+    width: 105%;
+    height: 50%;
+    text-align: center;
+    border-radius: 20px;
+    margin-left: 5%;
+    margin-top: 10px;
+    padding-top: 65px ;
+    color:rgba(0, 217, 255, 0.904);
+}
+ thead{
+    text-align: center;
+    color:rgba(0, 217, 255, 0.904);
+    
+}
+
+.Form{
+    
+   
+    background-color: black;
+    margin-left: 10%;
+    margin-top: 15px;
+    padding-top: 45px;
+    width: 75%;
+    height: 300px;
+    
+}
+
+
